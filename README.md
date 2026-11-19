@@ -1,11 +1,7 @@
-# Online Shopping Application
+## User Registration Module
 
-Project Objective:
-To develop an online shopping platform.
-
-Main Features:
-1. User Registration
-2. User Login
-3. Product Catalogue
-4. Shopping Cart
-5. Online Payment
+Features:
+1. New user registration
+2. Email address validation
+3. Password creation
+4. User profile creation
